@@ -1,0 +1,11 @@
+Release 1.0
+[ ] Get cURL working
+[ ] Make it get all text in a TOS
+[ ] Collect data for the detection
+[ ] Implement the detection
+[ ] Make nicely formatted output
+[ ] Make a precompiled binary for Windows and Linux (includes cURL)
+[ ] Provide a proper CLI and package for Chocolatey 
+
+Release 1.1
+[ ] Format output nicely
